@@ -21,7 +21,6 @@ Me interesa el rendimiento, el código limpio y crear experiencias que realmente
 
 ![React](https://img.shields.io/badge/-React-000?\&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?\&logo=typescript)
-![Next.js](https://img.shields.io/badge/-Next.js-000?\&logo=next.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?\&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?\&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?\&logo=css3)
@@ -37,16 +36,6 @@ Me interesa el rendimiento, el código limpio y crear experiencias que realmente
 
 ---
 
-## 📂 Proyectos destacados
-
-🔹 **Proyecto 1** – breve descripción
-🔹 **Proyecto 2** – breve descripción
-🔹 **Proyecto 3** – breve descripción
-
-👉 Ver más en mi portafolio: [link aquí]
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario\&show_icons=true\&theme=tokyonight)
@@ -57,7 +46,7 @@ Me interesa el rendimiento, el código limpio y crear experiencias que realmente
 
 * 💼 LinkedIn: [tu-linkedin](#)
 * 🧑‍💻 Portafolio: [tu-web](#)
-* 📧 Email: [tu@email.com](mailto:tu@email.com)
+* 📧 Email: [tu@email.com](calderonjohan604@gmail.com)
 
 ---
 
@@ -65,7 +54,3 @@ Me interesa el rendimiento, el código limpio y crear experiencias que realmente
 
 🚧 Mejorando mi portafolio
 📚 Aprendiendo más sobre performance y arquitectura frontend
-
----
-
-💡 *No solo escribo código, construyo experiencias.*
